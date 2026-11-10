@@ -1,2 +1,4 @@
 #Entornos virtuales
 .venv/
+#Documentos extra del rag
+datos/extra/
