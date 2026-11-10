@@ -1,0 +1,43 @@
+# Acknowledgments { #acknowledgments }
+
+- **Very Special Thanks to Edward Snowden and who inspired us to write this guide (buy and read his book please <https://en.wikipedia.org/wiki/Permanent_Record_(autobiography)>** <sup>[[Wikiless]](https://wikiless.tiekoetter.com/wiki/Permanent_Record_(autobiography))</sup> <sup>[[Archive.org]](https://web.archive.org/web/https://en.wikipedia.org/wiki/Permanent_Record_(autobiography))</sup>**)**
+- **Huge thanks to the people who donated to this project anonymously**
+- **Special Thanks to LiJu09 for helping with the Light theme of the website (**<https://github.com/LiJu09>**)**
+- **Special Thanks to Simplelogin.io people for providing a free lifetime premium access to their service**
+- Thanks to GitHub for hosting this project and the many people who starred it
+- Thanks to Njal.la for providing a domain name and VPS hosting anonymously
+- Thanks to 1984.is for providing VPS hosting anonymously
+- Thanks to all the people who contributed and shared this guide with others
+- Thanks to the people at the Internet Archive and Archive.today projects
+- Thanks to the people at the Monero project
+- Thanks to the people at the Zcash project
+- Thanks to the people at the Wikipedia project
+- Thanks to the people at the Tails project
+- Thanks to the people at the HiddenVM project
+- Thanks to the people at the Whonix project
+- Thanks to the people at the Qubes OS project
+- Thanks to the people at the Veracrypt project
+- Thanks to the people at the Tor and OONI Projects
+- Thanks to the people at the Briar project
+- Thanks to the people at the OnionShare project
+- Thanks to the people at the Element/Matrix project
+- Thanks to the people at the Jami project
+- Thanks to the people at the KeePass and KeePassXC projects
+- Thanks to the people at the Fawkes project
+- Thanks to the people at the VirtualBox project
+- Thanks to the people at the ExifCleaner, Mat2, and ExifTool projects
+- Thanks to the people at the Go Incognito Project from Techlore
+- Thanks to Didier Stevens for his pdf-tools
+- Thanks to the people at the EFF
+- Thanks to the people at the SANS
+- Thanks to the people at the OWASP Project
+- Thanks to the people at the Privacyguides.org project
+- Thanks to the people at BlackHat, DEF CON, and CCC
+- Thanks to the people at Bellingcat and other OSINT/Forensics researchers **(and sorry for making their life more difficult with this guide)**
+- Thanks to the makers of the Social Dilemma documentary **(go watch it if you did not yet)**
+- Thanks to Michael Bazzell and his great OSINT books which we recommend you **buy** at <https://inteltechniques.com>
+- Thanks to Randall Munroe at XKCD for his great and insightful webcomics.
+- Thanks to the people at the various few commercial entities who do take privacy seriously
+- Thanks to the whole open-source community and especially the Linux community
+- Thanks to the many researchers, journalists, lawyers, and individuals referenced in this guide for their various research and projects
+
