@@ -2,3 +2,5 @@
 .venv/
 #Documentos extra del rag
 datos/extra/
+# Archivos python
+src/__pycache__
