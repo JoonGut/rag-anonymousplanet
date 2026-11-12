@@ -137,7 +137,7 @@ RESPUESTA:"""
 
         salida = self.generador(
             entrada,
-            max_new_tokens=200,
+            max_new_tokens=510,
             do_sample=False,
             return_full_text=False
         )

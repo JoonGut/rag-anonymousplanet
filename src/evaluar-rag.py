@@ -125,7 +125,7 @@ def posicion_relevante(fuentes: List[Dict[str, Any]], seccion_esperada: str) -> 
             return posicion
     return None
 
-
+# Para calcular cuantas palabras tiene
 def cobertura_palabras_clave(palabras_clave: List[str], respuesta: str) -> float:
     if not palabras_clave:
         return 0.0
