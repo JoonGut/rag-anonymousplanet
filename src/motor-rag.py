@@ -17,7 +17,7 @@ class PlanetaAnonimo:
         embedding_model_name: str = MODELO_EMBEDDING_POR_DEFECTO,
         generation_model_name: str = "Qwen/Qwen2.5-0.5B-Instruct",
         device: Optional[int] = None,
-        umbral_similitud_defecto: float = 0.55
+        umbral_similitud_defecto: float = 0.45
     ):
         if "bge" not in embedding_model_name.lower():
             raise ValueError(
