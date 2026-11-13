@@ -4,3 +4,4 @@
 datos/extra/
 # Archivos python
 src/__pycache__
+__pycache__

@@ -4,8 +4,8 @@ import os
 import sys
 from pathlib import Path
 
-BASE_DIR = Path(__file__).resolve().parent.parent
-SRC_DIR = Path(__file__).resolve().parent
+BASE_DIR = Path(__file__).resolve().parent
+SRC_DIR = BASE_DIR / "src"
 RUTA_DATOS = BASE_DIR / "datos" / "index.md"
 COMANDOS_SALIDA = {"salir", "exit", "quit", "/salir", ":q"}
 
